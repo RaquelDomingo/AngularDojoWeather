@@ -1,3 +1,6 @@
+<img width="872" alt="weather forecast" src="https://user-images.githubusercontent.com/29441324/31867910-0ffaee74-b74c-11e7-9a6e-cd40f059faa9.png">
+
+
 # DojoWeather
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
